@@ -11,17 +11,13 @@
 
 .feedbackBtn {
   display: inline-block;
-  background-color: #fff;
-  padding: 5px;
-  border-radius: 5px;
   cursor: pointer;
   text-transform: capitalize;
 
-  box-shadow: 0px 0px 5px 0px rgba(148, 148, 148, 1);
 }
 
 .feedbackBtn:active {
-  background-color: steelblue;
+  background-color: grey;
   color: #fff;
 
   transition: all 50ms linear;
